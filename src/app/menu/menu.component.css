@@ -1,4 +1,19 @@
-.example-spacer {
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+  #section-login{
+  height: 100%;
+  width: 400px;
+  border-radius: 10px;
+  border: 2px solid black;
+  padding: 10px 20px;
+  margin-top: 50px;
+  }
+
+
+/* .example-spacer {
     flex: 1 1 auto;
   }
 
@@ -14,4 +29,4 @@ span{
   a{
     text-decoration: none;
     color: white;
-  }
+  } */
