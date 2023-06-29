@@ -20,13 +20,6 @@
       "descricao": "Descrição do jogo 3",
       "foto": "jogo3.PNG",
       "preco": 400
-    },
-    {
-      "id": "4",
-      "produto": "Jogo Modificado",
-      "descricao": "Descrição do Jogo Modificado",
-      "foto": "jogo.4.png\n",
-      "preco": "250"
     }
   ]
 }
