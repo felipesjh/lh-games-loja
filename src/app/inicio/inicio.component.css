@@ -29,6 +29,13 @@
   height: 300px;
   width: 300px;
   }
+
+  h2{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5px;
+}
+
   .example-card {
   max-width: 400px;
   }
